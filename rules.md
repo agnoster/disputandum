@@ -42,9 +42,13 @@ The standard configuration is 1 Champion, 1 Adversary, and the rest Seekers. How
 
 Before making or rebutting an argument the player may place Logic or Rhetoric cards in front of them to “bet” that they will use them successfully. If they succeed in using a Device, they receive the number of points indicated on the card; if they fail, they lose 1 point. Whether a player succeeded or failed is determined by a vote on each device. (In many cases, a formal vote will not be necessary, but any player can suggest it be held.)
 
+Regardless of the vote, the Logic or Rhetoric card is discarded after being played.
+
 ### Fallacies
 
 When a player uses a logical fallacy that another player has in their hand, player B can play the card. If (by a vote) the fallacy is found to have been used, the infringing player must pay the number of credibility points indicated on the Fallacy card to the one who played the card on them. If the vote fails, the player loses 1 Credibility point for calling wolf.
+
+Regardless of the vote, the Fallacy card is discarded after being played.
 
 ### The Board
 
@@ -60,7 +64,7 @@ Each player receives 2 Vote cards (1 Aye, 1 Nay) and 1 Role card. How the Roles 
 
 Each player receives 10 Credibility points.
 
-Finally, each player receives 7 cards from the deck of Device cards. During play, players will draw cards such that they always have 7 in their hand at the end of their turn.
+Finally, each player receives 7 cards from the deck of Device cards. During play, players will draw cards such that they always have 7 in their hand at the end of their turn.  At the beginning of a turn, a player may discard as many cards as they want (once) and draw an equivalent number of cards from the deck.  (If the deck runs out, discarded cards are shuffled and used again.)
 
 ### Debate
 
